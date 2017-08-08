@@ -1,0 +1,21 @@
+#cover
+{
+	background: url(Images/movie.jpeg);
+	color:black;
+	height:100%;
+	display: flex;
+	text-align:center;
+	align-items:center;
+}
+#cover-caption{
+	width:100%;
+}
+
+.cl{
+	background-color: black;
+	color: white;
+}
+.hero{
+	width: 1500px;
+	height:500px;
+}
