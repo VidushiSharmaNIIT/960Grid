@@ -1,0 +1,117 @@
+/*
+  960 Grid System ~ Text CSS.
+  Learn more ~ http://960.gs/
+
+  Licensed under GPL and MIT.
+*/
+
+
+/* `Basic HTML
+----------------------------------------------------------------------------------------------------*/
+
+body {
+    font: 13px/1.5 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif;
+}
+
+pre,
+code {
+    font-family: "DejaVu Sans Mono", Menlo, Consolas, monospace;
+}
+
+hr {
+    border: 0 solid #ccc;
+    border-top-width: 1px;
+    clear: both;
+    height: 0;
+}
+
+
+/* `Headings
+----------------------------------------------------------------------------------------------------*/
+
+h1 {
+
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 60px;
+    text-align: center;
+     text-shadow: 5px 10px 10px grey;
+}
+
+h3 {
+    font-size: 21px;
+}
+
+h4 {
+    font-size: 40px;
+}
+
+h5 {
+    font-size: 17px;
+}
+
+h6 {
+    font-size: 24px;
+}
+
+
+/* `Spacing
+----------------------------------------------------------------------------------------------------*/
+
+ol {
+    list-style: decimal;
+}
+
+ul {
+    list-style: disc;
+}
+
+.heading ul a {
+    font-size: 50px;
+}
+
+li {
+    margin-left: 30px;
+  }
+
+p,
+dl,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+pre,
+table,
+address,
+fieldset,
+figure {
+    margin-bottom: 20px;
+}
+
+.heading p {
+    background-color: grey;
+    font-size: 50px;
+    text-align: center;
+}
+
+.head h1 {
+    text-shadow: 5px 10px 10px grey;
+}
+
+.foot {
+    background: grey;
+}
+
+.heading1 {
+    background-color: grey;
+}
+.footer {
+    background-color: grey;
+}
